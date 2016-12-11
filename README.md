@@ -1,9 +1,12 @@
 # EEL4660Contour
 Final Project for EEL4660 - Contour Object Tracking
+
 Object Recognition and Tracking in Video
-from Quadcopter Flight
-EEL 4660
+from Quadcopter Flight | EEL 4660
+
 December 11, 2016
+
+Authors:
 Chelsea Greene
 Marcus Rivera
 
